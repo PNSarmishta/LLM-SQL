@@ -5,9 +5,9 @@
 
 // We need to create a .env file with credentials
     GOOGLE_API_KEY="AIzaSyB_C1ujj58oToqb5Vd8axV5XVlY12qRtjU"
-    DB_NAME=22CS30023
-    DB_USER=22CS30023
-    DB_PASSWORD=22CS30023
+    DB_NAME=22CE10057
+    DB_USER=22CE10057
+    DB_PASSWORD=22CE10057
     DB_HOST=10.5.18.72
     DB_PORT=5432
 
